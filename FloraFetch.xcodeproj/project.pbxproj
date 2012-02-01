@@ -38,21 +38,21 @@
 		4ED48B1D14D63DC500B1B43D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4ED48B1F14D63DC500B1B43D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4ED48B2114D63DC500B1B43D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4ED48B2514D63DC500B1B43D /* FloraFetch-Info.plist */ = {isa = PBXFileReference; path = "FloraFetch-Info.plist"; sourceTree = "<group>"; };
+		4ED48B2514D63DC500B1B43D /* FloraFetch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FloraFetch-Info.plist"; sourceTree = "<group>"; };
 		4ED48B2714D63DC500B1B43D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4ED48B2914D63DC500B1B43D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4ED48B2B14D63DC500B1B43D /* FloraFetch-Prefix.pch */ = {isa = PBXFileReference; path = "FloraFetch-Prefix.pch"; sourceTree = "<group>"; };
-		4ED48B2C14D63DC500B1B43D /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		4ED48B2B14D63DC500B1B43D /* FloraFetch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FloraFetch-Prefix.pch"; sourceTree = "<group>"; };
+		4ED48B2C14D63DC500B1B43D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4ED48B2D14D63DC500B1B43D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4ED48B3014D63DC500B1B43D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		4ED48B3314D63DC500B1B43D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		4ED48B3514D63DC500B1B43D /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		4ED48B3514D63DC500B1B43D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		4ED48B3614D63DC500B1B43D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4ED48B3D14D63DC500B1B43D /* FloraFetchTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FloraFetchTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ED48B3E14D63DC500B1B43D /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		4ED48B4614D63DC500B1B43D /* FloraFetchTests-Info.plist */ = {isa = PBXFileReference; path = "FloraFetchTests-Info.plist"; sourceTree = "<group>"; };
+		4ED48B4614D63DC500B1B43D /* FloraFetchTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FloraFetchTests-Info.plist"; sourceTree = "<group>"; };
 		4ED48B4814D63DC500B1B43D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4ED48B4A14D63DC500B1B43D /* FloraFetchTests.h */ = {isa = PBXFileReference; path = FloraFetchTests.h; sourceTree = "<group>"; };
+		4ED48B4A14D63DC500B1B43D /* FloraFetchTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FloraFetchTests.h; sourceTree = "<group>"; };
 		4ED48B4B14D63DC500B1B43D /* FloraFetchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FloraFetchTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
